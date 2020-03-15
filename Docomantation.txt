@@ -1,0 +1,4 @@
+https://github.com/bradtraversy/slimapp
+
+https://www.slimframework.com/docs/v4/start/installation.html
+composer require slim/slim:"4.*"
